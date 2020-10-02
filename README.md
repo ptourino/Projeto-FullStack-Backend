@@ -6,7 +6,7 @@ Backend do projeto Full Stack, feito durante o curso Web Full Stack da Labenu.
 
 ## Instalação
 
-- Clone o repositório para a sua máquina local usando `https://github.com/ptourino/Projeto-FullStack-Backend.git`
+- Clone o repositório para a sua máquina local usando `https://github.com/ptourino/projeto-fullstack-frontend.git`
 - Execute o comando para instalar todas as dependências:
 
 ```
@@ -25,7 +25,7 @@ Para mais detalhes sobre todos os endpoints disponíveis na API, visite o link:
 
 ## Contribuição
 
-- Clone o repositório para a sua máquina local usando `https://github.com/ptourino/Projeto-FullStack-Frontend.git`
-- Crie um Pull Request usando `https://github.com/ptourino/Projeto-FullStack-Frontend/compare/`
+- Clone o repositório para a sua máquina local usando `https://github.com/ptourino/projeto-fullstack-frontend.git`
+- Crie um Pull Request usando `https://github.com/ptourino/projeto-fullstack-frontend/compare/`
 
 **Criado por**: Pedro Touriño
